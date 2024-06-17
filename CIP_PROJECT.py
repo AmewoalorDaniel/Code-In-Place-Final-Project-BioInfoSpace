@@ -2,7 +2,7 @@ import sys
 # Introduction and User Input
 
 def welcome():
-    print("Welcome to the Bioinformatics Information Session!")
+    print("Welcome to the Bioinformatics Information Space!")
     print("This program is designed to test your knowledge on Bioinformatics and recommend materials to improve your understanding!\n")
     name = input("Please enter your name: ")
     
